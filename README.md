@@ -49,24 +49,11 @@ npx expo start
 
 ## Demonstração
 ### Capturas de Tela
-tela visualização:
-- Login 
-- Home 
-- Agendamento Labs 
-- Achados e Perdidos 
-- Salas Livres 
-### Demonstração em Vídeo
-defina o [link da demonstração completa]
+| Tela | Print |
+|------|-------|
+| Login | ![login](./docs/login.png) |
+| Home | ![home](./docs/home.png) |
+| Agendamento de Labs | ![agendamento](./docs/agendamento.png) |
+| Achados e Perdidos | ![achados](./docs/achados.png) |
+| Salas Livres | ![salas](./docs/salas.png) |
 
-## Arquitetura do Projeto
-diretório:
-fia-p-campus-helper/
-javascript code block with tree structure...
-txt
-descrição das pastas e arquivos.
-decisões técnicas.
-stacks tecnológicos.
-hooks implementados.
-navegação.
-design system.
-fucionalidades detalhadas.
