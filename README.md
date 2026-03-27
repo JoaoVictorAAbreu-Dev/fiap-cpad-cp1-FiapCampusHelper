@@ -223,12 +223,8 @@ fiap-campus-helper/
 │   └── ...                      # Outros componentes
 │
 ├── styles/                       # Identidade Visual
-│   ├── colors.js                # Paleta FIAP (#ed145b, preto, branco)
 │   └── theme.js                 # Tema global
 │
-├── utils/                        # Utilitários
-│   ├── storage.js               # Gerenciamento de AsyncStorage
-│   └── constants.js             # Constantes da aplicação
 │
 └── app.json                      # Configuração Expo
 ```
