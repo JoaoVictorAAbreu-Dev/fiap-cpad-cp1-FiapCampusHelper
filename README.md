@@ -479,33 +479,6 @@ Se você encontrar problemas ou tiver sugestões:
 
 ---
 
-## Checklist de Avaliação (Critérios Atendidos)
-
-Este README atende a todos os critérios de avaliação exigidos:
-
-### a) Sobre o Projeto
-- [x] Nome do app e descrição do problema que resolve
-- [x] Qual operação da FIAP foi escolhida e por quê
-- [x] Funcionalidades implementadas (tabela com status)
-
-### b) Integrantes do Grupo
-- [x] Nome completo de cada integrante com RM
-- [x] Responsabilidades definidas
-
-### c) Como Rodar o Projeto
-- [x] Pré-requisitos (Node, Expo Go, versões mínimas)
-- [x] Passo a passo para clonar e executar localmente
-- [x] Instruções de instalação de dependências
-- [x] Comandos prontos para copiar e colar
-
-### d) Demonstração
-- [x] Prints das telas do app (mínimo: uma print por tela - 5 telas principais)
-- [x] Instruções detalhadas para gravar GIF/vídeo
-- [x] Links para upload de vídeo (YouTube/Google Drive)
-- [x] Descrição do fluxo demonstrado no vídeo
-
----
-
 <div align="center">
 
 Desenvolvido para a FIAP
